@@ -1,2 +1,3 @@
 # IntroTo_DeepLearning
-where i post exercise and code of Intro To Deep Learning code
+# Where i post exercise and my solutions of Intro To Deep Learning code
+### The course is here: http://introtodeeplearning.com/
